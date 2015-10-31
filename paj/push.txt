@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git remote  add reposi git@github.com:kwarahi/paj.git
+git commit -a
+git push reposi master
